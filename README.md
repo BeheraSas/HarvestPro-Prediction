@@ -2,11 +2,15 @@
 HarvestPro is an advanced agricultural prediction tool designed to forecast crop yields and optimize farming practices using machine learning and data analytics. This project leverages various data sources to provide accurate and actionable predictions to help farmers make informed decisions.
 Features
 
+![image](https://github.com/BeheraSas/HarvestPro-Prediction/assets/148372851/ab49b583-c797-4e41-b105-0960ebd76c3b)
+
 **Crop Yield Prediction:** Utilizes historical data and machine learning algorithms to predict crop yields.
 **Weather Data Integration:** Incorporates real-time and historical weather data to improve prediction accuracy.
 **Soil Analysis:** Analyzes soil conditions using sensor data to provide recommendations for soil management.
 **Data Visualization:** Provides intuitive visualizations of data and predictions to facilitate better decision-making.
 **User-Friendly Interface:** Offers an easy-to-use interface for farmers to input data and access predictions.
+
+![Screenshot 2024-03-30 180844](https://github.com/BeheraSas/HarvestPro-Prediction/assets/148372851/cf2be496-4e4b-4ed8-ac23-73678905ac74)
 
 ## Project Description
 
